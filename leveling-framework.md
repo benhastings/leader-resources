@@ -295,7 +295,7 @@ _I set the multi-year, multi-team technical strategy and deliver it through dire
 
 ### Decision Making
 
-- I have a holistic view of the engineering org, customer insights and Dropbox’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
+- I have a holistic view of the engineering org, customer insights and company’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
 - I act thoughtfully and decisively in critical situations. Instead of trying to build consensus, I seek diverse perspectives, encourage productive debate with the right stakeholders and lead decision-making in critical situations even when making unpopular decisions
 - I'm able to reach the right decision despite conflicting perspectives, disagreeing and committing when necessary
 
@@ -314,7 +314,7 @@ _I set the multi-year, multi-team technical strategy and deliver it through dire
 ### Influence (Collaboration)
 
 - I devote time to spreading my knowledge widely via talks, blog posts or written documentation
-- I help break down silos within and across functions and influence others to reach the best outcome for Dropbox regardless of my level/title
+- I help break down silos within and across functions and influence others to reach the best outcome for company regardless of my level/title
 - I build deep cross-functional relationships, facilitate the right conversations, and settle disagreements by managing different viewpoints
 - I engage in productive conflict with thoughtful questioning and have the courage to state my point of view
 - I balance multiple perspectives and disagree and commit when necessary to move key company decisions, and critical priorities forward
@@ -344,7 +344,7 @@ _I deliver results against a strategic company-level business objective or key c
 ### Scope
 
 - I own and deliver org/company-wide multi-year, multi-team goals
-- I take a multi-year, industry-leading perspective, ensuring that our products adapt to scale, usage, and/or business needs well beyond Dropbox’s current scope.
+- I take a multi-year, industry-leading perspective, ensuring that our products adapt to scale, usage, and/or business needs well beyond company’s current scope.
 
 ### Impact
 
@@ -363,7 +363,7 @@ _I deliver results against a strategic company-level business objective or key c
 
 ### Decision Making
 
-- I have a holistic view of the entire org, customer insights and Dropbox’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
+- I have a holistic view of the entire org, customer insights and company’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
 - I act thoughtfully and decisively in critical situations. Instead of trying to build consensus, I seek diverse perspectives, encourage productive debate with the right stakeholders and lead decision-making in critical situations even when making unpopular decisions
 - I'm able to reach the right decision despite conflicting perspectives, disagreeing and committing when necessary
 
@@ -411,7 +411,7 @@ _I deliver results against either a portfolio of strategic company level busines
 ### Scope
 
 - I own and deliver company-wide product or platform goals with multi-year, multi-team effect
-- I take a multi-year, industry-leading perspective when building products and systems, ensuring they adapt to scale, usage and/or business needs well beyond Dropbox’s current scope.
+- I take a multi-year, industry-leading perspective when building products and systems, ensuring they adapt to scale, usage and/or business needs well beyond company’s current scope.
 
 ### Impact
 
@@ -429,7 +429,7 @@ _I deliver results against either a portfolio of strategic company level busines
 
 ### Decision Making
 
-- Has a holistic view of the engineering org, customer insights and Dropbox’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
+- Has a holistic view of the engineering org, customer insights and company’s goals and use my experience and judgment to make decisions optimized for the wider org, rather than my local project alone
 - Act thoughtfully and decisively in critical situations. Instead of trying to build consensus, I seek diverse perspectives, encourage productive debate with the right stakeholders and lead decision-making in critical situations even when making unpopular decisions
 - Able to reach the right decision despite conflicting perspectives, disagreeing and committing when necessary
 
@@ -449,7 +449,7 @@ _I deliver results against either a portfolio of strategic company level busines
 
 ### Influence
 
-- I help break down silos within and across functions and influence others to reach the best outcome for Dropbox
+- I help break down silos within and across functions and influence others to reach the best outcome for company
 - I build deep cross-functional relationships, facilitate the right conversations, and settle disagreements by managing different viewpoints
 - I engage in productive conflict with thoughtful questioning and have the courage to state my point of view
 - I balance multiple perspectives and disagree and commit when necessary to move key company decisions, and critical priorities forward
