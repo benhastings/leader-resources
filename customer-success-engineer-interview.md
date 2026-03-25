@@ -18,7 +18,7 @@
 - Tell me about a time you had to get deeply technical in a domain you weren't already expert in to solve a customer problem. How did you approach it and what was the result?
 - Have you ever identified a bug or architectural issue in your own product while helping a customer? What did you do with that information?
 
-> What to listen for: Mediocre candidates describe what they would do generically. Good ones recount specific incidents. Great ones show systematic thinking, intellectual curiosity, and closed loops — they didn't just fix it, they followed it through.
+> What to listen for: generically vs specific incidents. Systematic thinking, intellectual curiosity, and closed loops — they didn't just fix it, they followed it through.
 
 ## Customer Empathy & Communication
 - How do you adjust your technical communication when you're talking to an engineer vs. a VP vs. a skeptical end user?
@@ -53,4 +53,4 @@
 - How have you approached expansion or upsell conversations without it feeling like a sales call?
 
 
-What to listen for: The best candidates understand that adoption is behavioral, not just technical. They proactively monitor leading indicators of churn or stagnation — they don't wait for a renewal call to find out the customer is unhappy.
+> What to listen for: The best candidates understand that adoption is behavioral, not just technical. They proactively monitor leading indicators of churn or stagnation — they don't wait for a renewal call to find out the customer is unhappy.
